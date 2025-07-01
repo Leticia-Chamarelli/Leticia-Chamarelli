@@ -1,15 +1,13 @@
 <div align="center">
   <a href="https://github.com/Leticia-Chamarelli">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leticia-Chamarelli&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&title_color=ff69b4&icon_color=ff69b4"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leticia-Chamarelli&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&title_color=ff69b4&icon_color=ff69b4&cache_seconds=86400"/>
   </a>
   <a href="https://github.com/Leticia-Chamarelli">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leticia-Chamarelli&layout=compact&langs_count=7&theme=radical&hide_border=true&title_color=ff69b4"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leticia-Chamarelli&layout=compact&langs_count=7&theme=radical&hide_border=true&title_color=ff69b4&cache_seconds=86400"/>
   </a>
 </div>
 
-###
-
-```js
+```javascript
 const leticia = new Person({
   name: 'Letícia Ruiz Chamamarelli',
   age: 27,
