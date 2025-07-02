@@ -71,7 +71,7 @@ In the near future, I’m excited to dive deeper into:
 - **Cloud computing with AWS** — learning how to build modern backends on the cloud
 
 My biggest goal? To become a **full stack developer** and build real-world applications that make a difference.  
-I’m curious, focused, and always ready to grow — one line of code at a time! 💻🌸
+I’m curious, focused, and always ready to grow — one line of code at a time! 💻
 
 ---
 
