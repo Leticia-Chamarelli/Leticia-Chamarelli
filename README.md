@@ -45,7 +45,8 @@ while (leticia.hasCoke()) {
 
 <p>
   A passionate tech student from Brazil, powered by Coca-Cola, not coffee! 🥤<br/>
-  When I'm not coding, you can find me diving into a good book. I love building things for the web and I'm a huge fan of the color pink! 🌸
+  When I'm not coding, you can find me diving into a good book. 📚
+  I love building things for the web and I'm a huge fan of the color pink! 🌸
 </p>
 
 ---
