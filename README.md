@@ -1,12 +1,3 @@
-<div align="center">
-  <a href="https://github.com/Leticia-Chamarelli">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leticia-Chamarelli&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&title_color=ff69b4&icon_color=ff69b4&cache_seconds=86400"/>
-  </a>
-  <a href="https://github.com/Leticia-Chamarelli">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leticia-Chamarelli&layout=compact&langs_count=7&theme=radical&hide_border=true&title_color=ff69b4&cache_seconds=86400"/>
-  </a>
-</div>
-
 ```javascript
 const leticia = new Person({
   name: 'Letícia Ruiz Chamarelli',
@@ -35,6 +26,14 @@ leticia.abilities = {
   deployment: ['AWS', 'Render', 'Vercel'],
   ide: ['VSCode']
 };
+
+leticia.certifications = [
+  'Claude AI Capabilities and Limitations — Anthropic',
+  'Claude Code 101 — Anthropic',
+  'Claude Code in Action — Anthropic',
+  'Introduction to Agent Skills (Claude AI) — Anthropic',
+  'Introduction to Subagents (Claude AI) — Anthropic'
+];
 
 while (leticia.hasCoke()) {
   leticia.codes();
@@ -67,9 +66,14 @@ Day-to-day, I work with:
 - **AWS (RDS, ECS)** and **Redis** for infrastructure and performance
 - **Agile routines** with Scrum, Jira, and Bitbucket
 
-I'm also deepening my cloud knowledge with the **AWS Cloud Practitioner** certification (in progress) and exploring **Docker** to better understand scalable systems.
+### 🏆 Certifications
 
-Outside of my day job, I love experimenting with **NestJS** and API design — check out my [Pokémon Trainer API](https://github.com/Leticia-Chamarelli/back_nest_pokemon_project), where I built authentication with JWT/refresh tokens, modeled a PostgreSQL database, and shipped it to production.
+- Claude AI Capabilities and Limitations — Anthropic
+- Claude Code 101 — Anthropic
+- Claude Code in Action — Anthropic
+- Introduction to Agent Skills (Claude AI) — Anthropic
+- Introduction to Subagents (Claude AI) — Anthropic
 
 My biggest goal? To keep growing as a **full stack developer** and build real-world applications that make a difference.  
 I'm curious, focused, and always ready to learn — one line of code at a time! 💻
+Continue no Claude Code
