@@ -2,15 +2,14 @@
 const leticia = new Person({
   name: 'Letícia Ruiz Chamarelli',
   age: 29,
-  role: 'Junior Software Engineer @ New Car Veículos Elétricos',
+  role: 'Junior Software Engineer',
   email: 'leticia.chamarelli@outlook.com',
   location: 'São Paulo, Brazil',
-  student: true, // ADS @ FASUL — graduating 2027
+  student: true, 
   loves: ['tech 💻', 'books 📚', 'pink 🌸', 'Coca-Cola 🥤']
 });
 
 leticia.status = {
-  learning: ['AWS Cloud Practitioner ☁️', 'Microservices & event-driven systems', 'Docker 🐳'],
   objectives: [
     'Keep growing as a full stack developer',
     'Build real-world applications that make a difference'
