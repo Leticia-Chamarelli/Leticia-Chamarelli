@@ -9,28 +9,30 @@
 
 ```javascript
 const leticia = new Person({
-  name: 'Letícia Ruiz Chamamarelli',
+  name: 'Letícia Ruiz Chamarelli',
   age: 29,
+  role: 'Junior Software Engineer @ New Car Veículos Elétricos',
   email: 'leticia.chamarelli@outlook.com',
   location: 'São Paulo, Brazil',
-  student: true,
+  student: true, // ADS @ FASUL — graduating 2027
   loves: ['tech 💻', 'books 📚', 'pink 🌸', 'Coca-Cola 🥤']
 });
 
 leticia.status = {
-  learning: ['Laravel (PHP)', 'AWS ☁️', 'Docker 🐳'],
+  learning: ['AWS Cloud Practitioner ☁️', 'Microservices & event-driven systems', 'Docker 🐳'],
   objectives: [
-    'Become a full stack developer',
-    'Build real-world applications'
+    'Keep growing as a full stack developer',
+    'Build real-world applications that make a difference'
   ]
 };
 
 leticia.abilities = {
-  languages: ['JavaScript', 'TypeScript'],
-  frameworks: ['NestJS', 'Next.js'],
-  databases: ['PostgreSQL', 'MongoDB', 'MySQL'],
-  tools: ['Git', 'GitHub', 'Postman', 'Insomnia', 'Swagger', 'DBeaver'],
-  deployment: ['Render', 'Vercel'],
+  languages: ['PHP', 'JavaScript', 'TypeScript', 'Python', 'SQL'],
+  frameworks: ['Laravel', 'NestJS', 'Next.js', 'Express.js', 'React'],
+  databases: ['MySQL', 'PostgreSQL', 'MongoDB'],
+  cloud: ['Amazon RDS', 'Amazon ECS', 'Redis'],
+  tools: ['Git', 'GitHub', 'Postman', 'Insomnia', 'Swagger', 'Jira', 'Bitbucket', 'DBeaver'],
+  deployment: ['AWS', 'Render', 'Vercel'],
   ide: ['VSCode']
 };
 
@@ -44,7 +46,7 @@ while (leticia.hasCoke()) {
 </div>
 
 <p>
-  A passionate tech student from Brazil, powered by Coca-Cola, not coffee! 🥤<br/>
+  Junior Software Engineer from Brazil, powered by Coca-Cola, not coffee! 🥤<br/>
   
   When I'm not coding, you can find me diving into a good book. 📚
   
@@ -55,33 +57,19 @@ while (leticia.hasCoke()) {
 
 ### 👩‍💻 About Me
 
-I'm 27 years old and fully dedicated to learning and growing in tech.  
-Right now, I'm focusing on:
+I'm currently working as a **Junior Software Engineer** at New Car Veículos Elétricos, where I build and evolve web applications — including migrating a legacy monolith to a microservices and event-driven architecture.
 
-- **Node.js** with the powerful **NestJS** framework  
-- **React** with **Next.js** for building modern, scalable web apps  
-- **Databases** like PostgreSQL, MySQL, and MongoDB  
-- **API documentation** using **Swagger** for clean, well-structured endpoints  
-- **Deploying apps** with platforms like **Render** (already tested!) and soon **Vercel**
+Day-to-day, I work with:
 
-In the near future, I’m excited to dive deeper into:
+- **PHP & Laravel** for core backend services
+- **Node.js** and **React** for modern, scalable web apps
+- **MySQL** for data modeling and persistence
+- **AWS (RDS, ECS)** and **Redis** for infrastructure and performance
+- **Agile routines** with Scrum, Jira, and Bitbucket
 
-- **PHP with Laravel** — eager to explore this amazing framework  
-- **Docker** — I believe containers are key to scalable systems  
-- **Cloud computing with AWS** — learning how to build modern backends on the cloud
+I'm also deepening my cloud knowledge with the **AWS Cloud Practitioner** certification (in progress) and exploring **Docker** to better understand scalable systems.
 
-My biggest goal? To become a **full stack developer** and build real-world applications that make a difference.  
-I’m curious, focused, and always ready to grow — one line of code at a time! 💻
+Outside of my day job, I love experimenting with **NestJS** and API design — check out my [Pokémon Trainer API](https://github.com/Leticia-Chamarelli/back_nest_pokemon_project), where I built authentication with JWT/refresh tokens, modeled a PostgreSQL database, and shipped it to production.
 
----
-
-### 💬 Let's Connect!
-
-<p align="center">
-  <a href="mailto:leticia.chamarelli@outlook.com">
-    <img src="https://img.shields.io/badge/Email-ff69b4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="https://br.linkedin.com/in/let%C3%ADciachamarelli" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</p>
+My biggest goal? To keep growing as a **full stack developer** and build real-world applications that make a difference.  
+I'm curious, focused, and always ready to learn — one line of code at a time! 💻
