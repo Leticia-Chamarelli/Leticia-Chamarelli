@@ -75,4 +75,3 @@ Day-to-day, I work with:
 
 My biggest goal? To keep growing as a **full stack developer** and build real-world applications that make a difference.  
 I'm curious, focused, and always ready to learn — one line of code at a time! 💻
-Continue no Claude Code
