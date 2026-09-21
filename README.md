@@ -10,7 +10,7 @@
 ```javascript
 const leticia = new Person({
   name: 'Letícia Ruiz Chamamarelli',
-  age: 28,
+  age: 29,
   email: 'leticia.chamarelli@outlook.com',
   location: 'São Paulo, Brazil',
   student: true,
